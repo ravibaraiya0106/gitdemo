@@ -1,4 +1,3 @@
 # gitdemo
-this is demo for learning git and github
-this is my first repos
-
+This is demo for learning git and github.
+This is my first repos.
